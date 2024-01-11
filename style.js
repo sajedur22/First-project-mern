@@ -20,44 +20,4 @@ function checkAge() {
     }
 
     }
-    /*
-  function showResult(message, showPoo) {
-    const resultCard = document.getElementById('resultCard');
-    const resultMessage = document.getElementById('resultMessage');
-    const pooImage = document.getElementById('pooImage');
-  
-    resultMessage.textContent = message;
-    resultCard.style.display = 'block';
-  
-    if (showPoo) {
-      pooImage.style.display = 'block';
-    } else {
-      pooImage.style.display = 'none';
-    }}
-  
-
-s
-  function checkAge() {
-    const age = document.getElementById('ageInput').value;
-  
-    if (age >= 18) {
-      showResult('You are an adult', false);
-    } else {
-      showResult('You are a child', true);
-    }
-  }
-  
-  function showResult(message, showPoo) {
-    const resultCard = document.getElementById('resultCard');
-    const resultMessage = document.getElementById('resultMessage');
-    const pooImage = document.getElementById('pooImage');
-  
-    resultMessage.textContent = message;
-    resultCard.style.display = 'block';
-  
-    if (showPoo) {
-      pooImage.style.display = 'block';
-    } else {
-      pooImage.style.display = 'none';
-    }
-  }*/
+    
